@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"libraryOptimalizer","l":"Book"},{"p":"libraryOptimalizer","l":"library"},{"p":"libraryOptimalizer","l":"Loan"},{"p":"libraryOptimalizer","l":"Member"},{"p":"libraryOptimalizer","l":"testing"}];updateSearchResults();
